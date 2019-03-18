@@ -1,0 +1,7 @@
+{
+  "mixes": [
+    {"url": "https://soundcloud.com/runtimeclub/cool-teens-runtime-mix", "title": "COOL TEENS - RUNTIME MIX","image": "images/coolteens.png","bgcolor": "#08c6ff"},
+    {"url": "https://soundcloud.com/runtimeclub/tdoyle-runtime-mix", "title": "TDOYLE - RUNTIME MIX","image": "images/tdoyle.png","bgcolor": "#ff3399"},
+    {"url": "https://soundcloud.com/runtimeclub/airynore-mairy-christmas-mix", "title": "AIRYNORE - AIRY CHRISTMAS MIX","image": "images/airychristmas.png", "bgcolor": "#FC3B67"}
+  ]
+}
