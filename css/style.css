@@ -185,8 +185,9 @@ body:hover #art {
   padding:10px;
   margin:0 auto;
   margin-top:10px;
-  width:600px;
+  width:300px;
   text-align:center;
+  font-size:12px;
 }
 
 #container {
@@ -206,7 +207,7 @@ body:hover #art {
   display:block;
   width:100%;
   height:100%;
-  background-size: 100% 100%;
+  background-size: 100%;
   background-repeat:no-repeat;
   background-position:center center;
   -webkit-transition: opacity 0.3s ease-in-out;
